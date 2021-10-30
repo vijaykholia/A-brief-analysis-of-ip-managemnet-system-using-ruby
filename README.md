@@ -8,10 +8,10 @@ A reco tool for pentester's with a simple command line.
   > - Web portal port scan on IP-range/Domain's(port based vhost)
   > - Vhost finder(on domain name and IP based)
   > - Echo test of websocket to check cross site websocket hijacking
-  > - Deep Redirection url check
-  > - Working domain Screenshot's
 ### Upcoming features:-
 > - Subdomain finder, deep recon interface, some common exploits.
+> - Deep Redirection url check
+> - Working domain Screenshot's
 ### Installation & Usage
 ```sh
 git clone https://github.com/kunshdeep2812/reco.git
@@ -74,10 +74,6 @@ Options:
 ###### Note:- 
 This tool work in kali(2020.1) perfectly! no lengthy process for installation, just run ```sudo bash ./install.sh ```.
 If you are useing ```Non-GUI``` version of linux install web ```chromedriver``` manually to run ```selenium```--> https://chromedriver.chromium.org/.
-
-### Screenshots:-
-
-![vhostfind](https://user-images.githubusercontent.com/40362096/132621448-908dc886-ea1e-4057-bd2e-8d266c0f3d12.png)
 
 # License
 See the LICENSE file. [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/kunshdeep2812/reco/)
