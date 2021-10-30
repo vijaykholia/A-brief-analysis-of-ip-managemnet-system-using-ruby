@@ -1,4 +1,4 @@
-# Reco... (version 0.0.1)  <a href="https://kunshdeep.com"><img src="https://user-images.githubusercontent.com/40362096/78559302-ca3dcd80-7831-11ea-91e4-7161c644d0ef.png" width=100px alt="Reco...|kunshdeep"></a>[![Build Status](https://travis-ci.org/kunshdeep2812/reco.svg?branch=master)](https://travis-ci.org/kunshdeep2812/reco) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/kunshdeep2812/reco/pulse) [![GitHub contributors](https://img.shields.io/github/contributors/kunshdeep2812/reco)](https://github.com/kunshdeep2812/reco/graphs/contributors) [![GitHub license](https://img.shields.io/github/license/kunshdeep2812/reco.svg)](https://github.com/kunshdeep2812/reco/blob/master/LICENSE)
+# Reco... (version 0.0.1)  
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-ruby.svg)](https://www.ruby-lang.org/en/)
 ### 
 A reco tool for pentester's with a simple command line.  
