@@ -1,0 +1,6 @@
+Status code	IP address with port number
+403	172.67.220.196:443
+403	172.67.220.196:8080
+400	172.67.220.196:8443
+403	172.67.220.196:80
+Status code	IP address with port number
